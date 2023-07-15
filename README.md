@@ -1,1 +1,1 @@
-# SQLEducation
+# Patika Academy SQL Education
